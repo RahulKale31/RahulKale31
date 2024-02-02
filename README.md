@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RahulKale
 - 👀 I’m interested in technologies related to big data and machine learning
 
-- 🌱 I’m currently learning spark and different machine learning models.
+- 🌱 I’m currently working on spark and different machine learning models.
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 
 
