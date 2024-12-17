@@ -16,7 +16,7 @@ Data Engineer with a passion for building scalable data solutions. I specialize 
 
 ## 🏆 Certifications
 - [![AWS](https://img.shields.io/badge/AWS-Certified_Solutions_Architect_Associate-FF9900?logo=amazonaws)](https://www.credly.com/earner/earned/badge/af1c4bb9-bec0-4161-9e8c-c4a130fb97a0)
-- [![AWS](https://img.shields.io/badge/AWS-Certified_Data Engineer_Associate-FF9900?logo=amazonaws)](https://www.credly.com/earner/earned/badge/56573860-d05c-453c-92cd-52d808efb8a3)
+- [![AWS](https://img.shields.io/badge/AWS-Certified_Data_Engineer_Associate-FF9900?logo=amazonaws)](https://www.credly.com/earner/earned/badge/56573860-d05c-453c-92cd-52d808efb8a3)
 - [![Databricks](https://img.shields.io/badge/Databricks-Certified_Data_Engineer-FF3621?logo=databricks)](https://credentials.databricks.com/6bb023f9-e85b-4e8d-ba0d-f4c49b21ce4d#acc.apus7YWg)
 - [![Databricks](https://img.shields.io/badge/Databricks-Certified_Associate_Developer-FF3621?logo=databricks)](https://credentials.databricks.com/8d0b6aa9-39b3-4568-ad4d-f3878772da2b)
 - [![Airflow](https://img.shields.io/badge/Airflow-DAG_Authoring_Certified-017CEE?logo=apacheairflow)](https://www.credly.com/earner/earned/badge/758aeb2e-83ba-4919-8dc0-1f2481926eb7)
