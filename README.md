@@ -15,7 +15,7 @@ Data Engineer with a passion for building scalable data solutions. I specialize 
 - 🔄 Automated deployment processes saving countless hours
 
 ## 🏆 Certifications
-- ![AWS](https://img.shields.io/badge/AWS-Certified_Solutions_Architect_Associate-FF9900?logo=amazonaws)
+- [![AWS](https://img.shields.io/badge/AWS-Certified_Solutions_Architect_Associate-FF9900?logo=amazonaws)](https://www.credly.com/earner/earned/badge/af1c4bb9-bec0-4161-9e8c-c4a130fb97a0)
 - ![Databricks](https://img.shields.io/badge/Databricks-Certified_Data_Engineer-FF3621?logo=databricks)
 - ![Databricks](https://img.shields.io/badge/Databricks-Certified_Associate_Developer-FF3621?logo=databricks)
 - ![Airflow](https://img.shields.io/badge/Airflow-DAG_Authoring_Certified-017CEE?logo=apacheairflow)
