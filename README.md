@@ -16,11 +16,12 @@ Data Engineer with a passion for building scalable data solutions. I specialize 
 
 ## 🏆 Certifications
 - [![AWS](https://img.shields.io/badge/AWS-Certified_Solutions_Architect_Associate-FF9900?logo=amazonaws)](https://www.credly.com/earner/earned/badge/af1c4bb9-bec0-4161-9e8c-c4a130fb97a0)
-- ![Databricks](https://img.shields.io/badge/Databricks-Certified_Data_Engineer-FF3621?logo=databricks)
-- ![Databricks](https://img.shields.io/badge/Databricks-Certified_Associate_Developer-FF3621?logo=databricks)
-- ![Airflow](https://img.shields.io/badge/Airflow-DAG_Authoring_Certified-017CEE?logo=apacheairflow)
-- ![Azure](https://img.shields.io/badge/Azure-Fundamentals-0089D6?logo=microsoftazure)
-- ![Azure](https://img.shields.io/badge/Azure-Data_Fundamentals-0089D6?logo=microsoftazure)
+- [![AWS](https://img.shields.io/badge/AWS-Certified_Data Engineer_Associate-FF9900?logo=amazonaws)](https://www.credly.com/earner/earned/badge/56573860-d05c-453c-92cd-52d808efb8a3)
+- [![Databricks](https://img.shields.io/badge/Databricks-Certified_Data_Engineer-FF3621?logo=databricks)](https://credentials.databricks.com/6bb023f9-e85b-4e8d-ba0d-f4c49b21ce4d#acc.apus7YWg)
+- [![Databricks](https://img.shields.io/badge/Databricks-Certified_Associate_Developer-FF3621?logo=databricks)](https://credentials.databricks.com/8d0b6aa9-39b3-4568-ad4d-f3878772da2b)
+- [![Airflow](https://img.shields.io/badge/Airflow-DAG_Authoring_Certified-017CEE?logo=apacheairflow)](https://www.credly.com/earner/earned/badge/758aeb2e-83ba-4919-8dc0-1f2481926eb7)
+- [![Azure](https://img.shields.io/badge/Azure-Fundamentals-0089D6?logo=microsoftazure)](https://learn.microsoft.com/api/credentials/share/en-us/RahulKale-9940/7DA173A5D0BD594F?sharingId=B18B20628480DEF8)
+- [![Azure](https://img.shields.io/badge/Azure-Data_Fundamentals-0089D6?logo=microsoftazure)](https://learn.microsoft.com/en-us/users/rahulkale-9940/transcript/v2nknslg6qmnw6p?tab=tab-modules)
 
 ## 💻 Tech Stack
 ```python
@@ -28,23 +29,12 @@ tech_stack = {
     "Cloud": ["AWS", "Azure"],
     "Data Processing": ["PySpark", "AWS Glue", "Databricks"],
     "Data Warehouse": ["Redshift", "Athena"],
-    "Infrastructure": ["Terraform", "AWS Step Functions"],
+    "Infrastructure": ["Terraform"],
     "Orchestration": ["Apache Airflow", "AWS Step Functions"],
     "Languages": ["Python", "SQL"],
-    "Data Quality": ["Collibra", "Great Expectations"]
+    "Data Quality": ["Collibra"]
 }
 ```
-
-## 🌟 Key Projects
-### Global Omnichannel Data Platform
-- 🏗️ Built end-to-end data pipelines using AWS Step Functions
-- 🚀 Implemented Infrastructure as Code using Terraform
-- 📊 Optimized data processing reducing runtime by 40%
-
-### Marketing Mix Analytics Platform
-- 📈 Designed data lake architecture using AWS services
-- 💰 Reduced processing costs by 30%
-- ✨ Achieved 99.9% data accuracy through quality frameworks
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RahulKale31&show_icons=true&theme=radical)
