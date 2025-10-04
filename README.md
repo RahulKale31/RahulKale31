@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kale-340502156/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kale.rahulc@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kaler6788)
 
 ## 🚀 About Me
 Data Engineer with a passion for building scalable data solutions. I specialize in optimizing data pipelines and implementing cloud-native architectures. My super power? Turning complex data challenges into efficient, automated solutions.
